@@ -79,7 +79,7 @@
 
   The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-  ![Docker Screenshot]()
+  ![Docker Screenshot](https://github.com/PriyankaTilavalli/PriyankaTilavalliELKProject1/blob/main/ELK%20Project%201/Screenshots/docker_ps_output.png)
 <br>
 <br>
 
