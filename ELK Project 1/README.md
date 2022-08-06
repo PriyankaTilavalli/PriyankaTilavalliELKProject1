@@ -8,7 +8,7 @@
 
   - Install-elk.yml
   - Filebeat-config.yml
-  - Filebeat-Playbook.Yml
+  - Filebeat-Playbook.yml
   - Metricbeat-config.yml
   - Metricbeat-playbook.yml
 
