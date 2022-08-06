@@ -79,7 +79,7 @@
 
   The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-  C:\Users\tilav\OneDrive\Desktop\HomeWorks\docker_ps_output.png
+  ![Docker Screenshot]()
 <br>
 <br>
 
